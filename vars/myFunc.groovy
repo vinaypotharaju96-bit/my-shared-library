@@ -1,3 +1,3 @@
-def call(String name) {
-    echo "Hello ${name}, from Jenkins Shared Library!"
+def call() {
+    echo "Hello from Jenkins Shared Library"
 }
